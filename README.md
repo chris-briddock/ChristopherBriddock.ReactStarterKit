@@ -24,13 +24,13 @@ This is a starter kit for building React applications with TypeScript. It includ
 
     cd react-starter-kit-ts
         npm install
-        # or
+         or
         yarn install
 
 3. Start the development server:
 
     npm run dev-compile
-        # or
+        or
         yarn dev-compile
 
     This will start the Vite development server with hot module replacement.
